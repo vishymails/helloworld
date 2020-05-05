@@ -1,0 +1,13 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 8CDE-CA03
+
+ Directory of D:\HelloWorld
+
+05-05-2020  11:43    <DIR>          .
+05-05-2020  11:43    <DIR>          ..
+05-05-2020  11:06               506 HelloWorld.class
+05-05-2020  11:01               181 HelloWorld.java
+05-05-2020  11:39               435 test.txt
+05-05-2020  11:43                 0 test1.txt
+               4 File(s)          1,122 bytes
+               2 Dir(s)  283,220,340,736 bytes free
